@@ -1,6 +1,4 @@
-# Technical Documentation Portfolio
-
-## Sample 01: Android Development -- Building a LinearLayout with a Button Using XML and Kotlin
+## Android Development - Building a LinearLayout with a Button Using XML and Kotlin
 
 **Document Type:** Step-by-Step Technical Tutorial\
 **Technology:** Android Studio, XML, Kotlin\
